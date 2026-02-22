@@ -1,0 +1,14 @@
+2026-02-21 20:16:46 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\DELL\eclipse-workspace\OoenCartV111\master.xml"
+2026-02-21 20:16:54 INFO  TC007_InfoAboutUsPage:15 - *****  Starting TC007_InfoAboutUsPage  ****
+2026-02-21 20:16:54 INFO  TC007_InfoAboutUsPage:16 - *****  Home page open  ****
+2026-02-21 20:16:55 INFO  TC007_InfoAboutUsPage:23 - *****  About Us page open  ****
+2026-02-21 20:16:55 INFO  TC007_InfoAboutUsPage:25 - Validating expected message..
+2026-02-21 20:16:55 INFO  TC007_InfoAboutUsPage:29 - Test passed
+2026-02-21 20:16:55 INFO  TC007_InfoAboutUsPage:38 - ***** Finished TC007_InfoAboutUsPage *****
+2026-02-21 20:39:25 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\DELL\eclipse-workspace\OoenCartV111\master.xml"
+2026-02-21 20:39:28 INFO  TC007_InfoAboutUsPage:15 - *****  Starting TC007_InfoAboutUsPage  ****
+2026-02-21 20:39:28 INFO  TC007_InfoAboutUsPage:16 - *****  Home page open  ****
+2026-02-21 20:39:29 INFO  TC007_InfoAboutUsPage:23 - *****  About Us page open  ****
+2026-02-21 20:39:29 INFO  TC007_InfoAboutUsPage:25 - Validating expected message..
+2026-02-21 20:39:29 INFO  TC007_InfoAboutUsPage:29 - Test passed
+2026-02-21 20:39:29 INFO  TC007_InfoAboutUsPage:38 - ***** Finished TC007_InfoAboutUsPage *****

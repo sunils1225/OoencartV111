@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+
+<listeners>
+<listener class-name="Utilities.ExtentReportManager"></listener>
+</listeners>
+  <test thread-count="5" name="Test">
+  <parameter name="os" value="Windows"/>
+  <parameter name="browser" value="chrome"/>
+  <!-- <parameter name="browser" value="firefox"/>-->
+ 
+    <classes>
+     <!-- <class name="TestCases.TC005_AccountRegistrationDDT"/>-->
+     <!-- <class name="TestCases.TC006_Serachproduct"/> -->
+          <class name="TestCases.TC007_InfoAboutUsPage"/>
+    <!--  <class name="TestCases.TC003_LoginTest"/> -->
+     <!-- <class name="TestCases.TC004_LoginDDT"/> -->
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

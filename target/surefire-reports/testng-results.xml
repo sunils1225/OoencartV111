@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-02-21T20:39:25 IST" name="Suite" finished-at="2026-02-21T20:39:29 IST" duration-ms="3973">
+    <groups>
+      <group name="Master">
+        <method signature="TC007_InfoAboutUsPage.verify_AboutinfoPage()[pri:0, instance:TestCases.TC007_InfoAboutUsPage@7fcf2fc1]" name="verify_AboutinfoPage" class="TestCases.TC007_InfoAboutUsPage"/>
+      </group> <!-- Master -->
+      <group name="Regression">
+        <method signature="TC007_InfoAboutUsPage.verify_AboutinfoPage()[pri:0, instance:TestCases.TC007_InfoAboutUsPage@7fcf2fc1]" name="verify_AboutinfoPage" class="TestCases.TC007_InfoAboutUsPage"/>
+      </group> <!-- Regression -->
+    </groups>
+    <test started-at="2026-02-21T20:39:25 IST" name="Test" finished-at="2026-02-21T20:39:29 IST" duration-ms="3973">
+      <class name="TestCases.TC007_InfoAboutUsPage">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:TestCases.TC007_InfoAboutUsPage@7fcf2fc1]" started-at="2026-02-21T20:39:25 IST" name="setup" finished-at="2026-02-21T20:39:28 IST" duration-ms="3285" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Windows]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verify_AboutinfoPage()[pri:0, instance:TestCases.TC007_InfoAboutUsPage@7fcf2fc1]" started-at="2026-02-21T20:39:28 IST" name="verify_AboutinfoPage" finished-at="2026-02-21T20:39:29 IST" duration-ms="400" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_AboutinfoPage -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestCases.TC007_InfoAboutUsPage@7fcf2fc1]" started-at="2026-02-21T20:39:29 IST" name="tearDown" finished-at="2026-02-21T20:39:29 IST" duration-ms="118" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- TestCases.TC007_InfoAboutUsPage -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
